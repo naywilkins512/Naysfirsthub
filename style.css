@@ -1,0 +1,63 @@
+
+body {
+
+    background-color: pink;
+
+}
+h1 {
+
+    margin-bottom: 5px;
+
+    font-size: 60px;
+
+    color: white;
+
+    background-color: gray;
+
+    text-align: center;
+
+    text-decoration: underline;
+
+    background-color: gray;
+}
+
+h2 { 
+
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 40px;
+    text-align: left;
+
+}
+
+h3 {
+
+    text-align: center;
+    
+
+}
+
+img {
+
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    float: left;
+
+}
+
+p {
+
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+
+}
+
+ul {
+
+    text-align: center;
+    font-size: large;
+  
+    
+}
